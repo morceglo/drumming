@@ -10,8 +10,8 @@ Gloriana Chaverri, Ana María Ávila-García, José Gabriel Tinajero-Romero, Sil
 In this study, we documented and experimentally characterized a novel drumming behavior in the disk-winged bat (Thyroptera tricolor), showing that it is triggered primarily by interspecific intrusions. We quantified its occurrence, acoustic properties, and individual variation, proposing that drumming serves as a context-specific antipredator strategy. 
 
 ## Data
-* [Location of groups](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/30UbiG_date.csv)
-Key to listed variables: Fecha = date (day/month/year), ID = group identification number, x_ = longitude, y_ = latitude.
+* [General data on drumming behavior](https://github.com/morceglo/drumming/blob/main/data.xlsx)
+Key to listed variables: group = identity of social group, bat_id = last 4 digits of the RFID tag for each bat, trial = represents either the first or second trial in which we measured drumming behavior, sex = sex of the tested individual, time_drumming = total time the bat spent drumming within each trial, max_amp = average of maximum amplitude for all identified drumming events per trial (in dBFS), mean_amp = average of mean amplitude for all identified drumming events per trial (in dBFS).
 
 * [Data on home range and other group traits](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/HR_Gsize.csv)
 Key to listed variables: Group_ID = group identification number, HR = size of roosting home range (ha), Gprom_size = average group size, Gcrow_size = group size based on crowding, G_crowding2 = group size based on crowding.
