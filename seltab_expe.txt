@@ -1,0 +1,149 @@
+"video" "sound" "Behavior" "bat_id"
+"C0106" "no vocal" "drumming" 6231
+"C0107" NA NA 4334
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "after" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0108" "vocal" "during" 4346
+"C0109" "vocal" "during" 9490
+"C0109" "vocal" "during" 9490
+"C0109" "no vocal" "drumming" 9490
+"C0109" "vocal" "no drumming" 9490
+"C0109" "vocal" "during" 9490
+"C0109" "vocal" "no drumming" 9490
+"C0110" "vocal" "no drumming" 6209
+"C0110" "vocal" "no drumming" 6209
+"C0110" "vocal" "no dromming" 6209
+"C0110" "vocal" "no drumming" 6209
+"C0110" "vocal" "no drumming" 6209
+"C0110" "vocal" "no drumming" 6209
+"C0110" "vocal" "no drumming" 6209
+"C0110" "vocal" "no drumming" 6209
+"C0110" "vocal" "no dromming" 6209
+"C0112" "vocal" "during" 3072
+"C0112" "vocal" "during" 3072
+"C0112" "vocal" "no drumming" 3072
+"C0112" "vocal" "after" 3072
+"C0112" "vocal" "no drumming" 3072
+"C0112" "vocal" "during" 3072
+"C0112" "vocal" "before" 3072
+"C0112" "vocal" "during" 3072
+"C0112" "vocal" "no drumming" 3072
+"C0112" "vocal" "no drumming" 3072
+"C0112" "vocal" "after" 3072
+"C0112" "vocal" "before" 3072
+"C0114" NA NA 4421
+"C0115" "vocal" "no drumming" 5103
+"C0115" "vocal" "during" 5103
+"C0115" "vocal" "during" 5103
+"C0115" "vocal" "no drumming" 5103
+"C0115" "vocal" "no drumming" 5103
+"C0116" NA NA 4277
+"C0117" NA NA 4300
+"C0118" NA NA 6209
+"C0118" NA NA 7919
+"C0119" NA NA 5119
+"C0120" "vocal" "no drumming" 4301
+"C0120" "vocal" "no drumming" 4301
+"C0120" "vocal" "no drumming" 4301
+"C0120" "vocal" "no drumming" 4301
+"C0120" "vocal" "no drumming" 4301
+"C0120" "vocal" "no drumming" 4301
+"C0120" "vocal" "no drumming" 4301
+"C0120" "vocal" "no drumming" 4301
+"C0120" "vocal" "no drumming" 4301
+"C0124" NA NA 4287
+"C0125" NA NA 5093
+"C0126" "vocal" "during" 6186
+"C0126" "vocal" "before" 6186
+"C0126" "no vocal" "drumming" 6186
+"C0127" "vocal" "during" 3072
+"C0127" "vocal" "before" 3072
+"C0127" "no vocal" "drumming" 3072
+"C0127" "vocal" "during" 3072
+"C0127" "vocal" "during" 3072
+"C0127" "vocal" "during" 3072
+"C0127" "vocal" "during" 3072
+"C0127" "vocal" "during" 3072
+"C0127" "vocal" "during" 3072
+"C0127" "vocal" "no drumming" 3072
+"C0127" "vocal" "no drumming" 3072
+"C0127" "vocal" "no drumming" 3072
+"C0127" "vocal" "during" 3072
+"C0129" "vocal" "during" 5125
+"C0129" "vocal" "during" 5125
+"C0129" "vocal" "during" 5125
+"C0129" "no vocal" "drumming" 5125
+"C0129" "vocal" "during" 5125
+"C0130" NA NA 5125
+"C0131" "vocal" "before" 6154
+"C0131" "vocal" "before" 6154
+"C0131" "vocal" "after" 6154
+"C0131" "vocal" "no drumming" 6154
+"C0131" "no vocal" "drumming" 6154
+"C0131" "vocal" "no drumming" 6154
+"C0131" "vocal" "no drumming" 6154
+"C0131" "vocal" "before" 6154
+"C0131" "no vocal" "drumming" 6154
+"C0132" "vocal" "no drumming" 3556
+"C0132" "vocal" "no drumming" 3556
+"C0132" "vocal" "no drumming" 3556
+"C0132" "vocal" "no drumming" 3556
+"C0132" "vocal" "no drumming" 3556
+"C0132" "vocal" "no drumming" 3556
+"C0132" "vocal" "no drumming" 3556
+"C0132" "vocal" "no drumming" 3556
+"C0132" "vocal" "no drumming" 3556
+"C0132" "vocal" "no drumming" 3556
+"C0133" NA NA 5099
+"C0148" "no vocal" "drumming" 6231
+"C0148" "no vocal" "drumming" 6231
+"C0148" "no vocal" "drumming" 6231
+"C0148" "no vocal" "drumming" 6231
+"C0148" "no vocal" "drumming" 6231
+"C0148" "no vocal" "drumming" 6231
+"C0148" "no vocal" "drumming" 6231
+"C0148" "no vocal" "drumming" 6231
+"C0149" "vocal" "no drumming" 5113
+"C0149" "vocal" "no drumming" 5113
+"C0149" "vocal" "no drumming" 5113
+"C0149" "vocal" "no drumming" 5113
+"C0149" "vocal" "before" 5113
+"C0149" "vocal" "during" 5113
+"C0149" "vocal" "no drumming" 5113
+"C0149" "vocal" "no drumming" 5113
+"C0149" "vocal" "no drumming" 5113
+"C0149" "vocal" "no drumming" 5113
+"C0149" "vocal" "during" 5113
+"C0149" "vocal" "after" 5113
+"C0149" "vocal" "no drumming" 5113
+"C0149" "vocal" "no drumming" 5113
+"C0157" "vocal" "before" 5106
+"C0157" "vocal" "during" 5106
+"C0157" "vocal" "during" 5106
+"C0157" "vocal" "during" 5106
+"C0157" "vocal" "during" 5106
+"C0157" "vocal" "during" 5106
+"C0157" "vocal" "during" 5106
+"C0157" "vocal" "during" 5106
+"C0157" "vocal" "during" 5106
+"C0157" "vocal" "during" 5106
+"C0157" "vocal" "before" 5106
+"C0157" "vocal" "during" 5106
+"C0158" "vocal" "no drumming" 4334
+"C0158" "no vocal" "drumming" 4334
+"C0159" "vocal" "during" 9490
+"C0160" "vocal" "during" 4346
+"C0160" "no vocal" "drumming" 4346
+"C0161" NA NA 4331
+NA NA NA 4331
