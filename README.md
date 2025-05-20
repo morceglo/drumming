@@ -11,10 +11,10 @@ In this study, we documented and experimentally characterized a novel drumming b
 
 ## Data
 * [General data on drumming behavior](https://github.com/morceglo/drumming/blob/main/data.xlsx)
-Key to listed variables: group = identity of social group, bat_id = last 4 digits of the RFID tag for each bat, trial = represents either the first or second trial in which we measured drumming behavior, sex = sex of the tested individual, time_drumming = total time the bat spent drumming within each trial, max_amp = average of maximum amplitude for all identified drumming events per trial (in dBFS), mean_amp = average of mean amplitude for all identified drumming events per trial (in dBFS).
+This dataset represents observations of drumming behavior summarized per individual tested and trial. Key to listed variables: group = identity of social group, bat_id = last 4 digits of the RFID tag for each bat, trial = represents either the first or second trial in which we measured drumming behavior, sex = sex of the tested individual, time_drumming = total time the bat spent drumming within each trial, max_amp = average of maximum amplitude for all identified drumming events per trial (in dBFS), mean_amp = average of mean amplitude for all identified drumming events per trial (in dBFS).
 
-* [Data on home range and other group traits](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/HR_Gsize.csv)
-Key to listed variables: Group_ID = group identification number, HR = size of roosting home range (ha), Gprom_size = average group size, Gcrow_size = group size based on crowding, G_crowding2 = group size based on crowding.
+* [Drumming sounds](https://github.com/morceglo/drumming/blob/main/drumming_sounds.xlsx)
+This dataset represents values of measured sound parameters for each drumming bout detected per individual. Key to listed variables: label = the identity of each drumming bout within a given trial, bat_id = last 4 digits of the RFID tag for each bat, max = peak amplitude at the maximum amplitude of the element (dBFS), mean = peak amplitude at mean spectrum of the entire element (dBFS), trial = represents either the first or second trial in which we measured drumming behavior.
 
 * [Spatial distribution of tubular leaves](https://github.com/morceglo/territoriality-in-disc-winged-bats/blob/main/leaves.csv)
 Key to listed variables: Fecha = date when a leaf was observed (day/month/year), Muestreo = sample identification, Hoja = leaf number, x = longitude, y = latitude.
