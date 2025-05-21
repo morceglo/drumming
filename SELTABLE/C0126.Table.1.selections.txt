@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Center Freq (Hz)	Delta Time (s)	Inband Power (dB FS)	Tipo	Id	Determinación	Comportamiento	Calidad
+1	Spectrogram 1	1	12.905872039	14.701144657	920.716	7546.392	1582.031	1.7953	-37.19			vocal	during	bad
+2	Spectrogram 1	1	27.178754466	27.410293942	1574.037	4686.833	2800.781	0.2315	-49.56			vocal	before	
+3	Spectrogram 1	1	39.226319323	39.898718106	1227.621	5340.153	2753.906	0.6724	-48.76			no vocal	drumming	
