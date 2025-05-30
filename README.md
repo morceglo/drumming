@@ -28,7 +28,7 @@ Folder containing the selection tables extracted from each video analysed in Rav
   
 
 ## Status
-Project is: Manuscript under consideration in Animal Behaviour
+Project is: Manuscript under consideration in Mammalian Biology
 
 ## Contact
 Created by [Gloriana_Chaverri](batcr.com/)
